@@ -1,2 +1,2 @@
 # JuliaFD
-Finite-differnce library for external aerodyanmics applications
+Finite-differnce library for external Aerodynamics applications
